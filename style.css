@@ -1,0 +1,16 @@
+.menu {
+    background: #4c4c4c;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.menu:hover {
+    background: black;
+    color: white;
+}
+
+.menu > a {
+    color: #f1f1f1;
+    font-family: 'Barlow';
+    text-decoration: none;
+}
